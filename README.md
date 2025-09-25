@@ -1,1 +1,2 @@
 # flashcardapp
+Flashcard App is a versatile and interactive learning tool that combines the power of Java, HTML, and CSS to deliver a smooth and engaging experience. Effortlessly create, categorize, and review flashcards while enjoying a clean and responsive interface. Simply download the project from this repository, open it in your preferred IDE, and run the application to start enhancing your learning. Make studying smarter, faster, and visually appealing—all in one app!
